@@ -34,9 +34,10 @@
   - [EDA con ydata-profiling](ejercicios/03-E01%20EDA%20ydata_profiling.ipynb)
   - [EDA con DataPrep](ejercicios/03-E02%20EDA%20dataprep.ipynb)
   - [Preparación de datos del Titanic con Pandas](ejercicios/03-E03%20Preparacion%20datos%20Titanic%20Pandas.ipynb)
-  - [Preparación de datos del Titanic con scikit-learn](ejercicios/03-E03%20Preparacion%20datos%20Titanic%20scikit-learn.ipynb)
+  - [Preparación de datos del Titanic con scikit-learn](ejercicios/03-E04%20Preparacion%20datos%20Titanic%20scikit-learn.ipynb)
+  - [Pipeline de scikit-learn con los datos del Titanic](ejercicios/03-E05%20scikit-learn%20pipeline%20Titanic.ipynb)
 
 ### Ejercicios de aprendizaje supervizado
 - [Predicción del valor medio de una vivienda](ejercicios/04-E01%20Prediccion%20Valor%20Medio%20Vivienda.ipynb)
 - [Clasificación de dígitos manuscritos](ejercicios/04-E02%20Clasificacion%20Digitos%20Manuscritos.ipynb)
-- [Predicción de compras en línea](ejercicios/04-E02%20Prediccion%20Compras%20en%20Linea.ipynb)
+- [Predicción de compras en línea](ejercicios/04-E03%20Prediccion%20Compras%20en%20Linea.ipynb)
