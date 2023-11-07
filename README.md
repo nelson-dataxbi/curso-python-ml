@@ -36,3 +36,6 @@
   - [Preparación de datos del Titanic con Pandas](ejercicios/03-E03%20Preparacion%20datos%20Titanic%20Pandas.ipynb)
   - [Preparación de datos del Titanic con scikit-learn](ejercicios/03-E03%20Preparacion%20datos%20Titanic%20scikit-learn.ipynb)
 
+### Ejercicios de aprendizaje supervizado
+- [Predicción del valor medio de una vivienda](ejercicios/04-E01%20Prediccion%20Valor%20Medio%20Vivienda.ipynb)
+- [Clasificación de dígitos manuscritos](ejercicios/04-E02%20Clasificacion%20Digitos%20Manuscritos.ipynb)
