@@ -21,7 +21,7 @@
   - [Clustering con `scikit-learn` utilizando el conjunto de datos Iris](ejercicios/01-E03%20Clustering%20Iris.ipynb)
   - [Clasificación con `scikit-learn` utilizando el conjunto de datos de vinos](ejercicios/01-E04%20Clasificacion%20Vinos.ipynb)
 
-### Nociones de estadística
+### Nociones de Estadística
 - [Presentación](presentaciones/Curso%20Python%20ML%2002%20Nociones%20Estadisticas.pdf)
 - Ejercicios
   - [Cálculos estadisticos con NumPy](ejercicios/02-E01%20Calculos%20Estadisticos%20NumPy.ipynb)
