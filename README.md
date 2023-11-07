@@ -30,7 +30,7 @@
 
 ### Exploración y preparación de datos
 [Presentación](presentaciones/Curso%20Python%20ML%2003%20Preparacion%20Datos.pdf)
--Ejercicios
+- Ejercicios
   - [EDA con ydata-profiling](ejercicios/03-E01%20EDA%20ydata_profiling.ipynb)
   - [EDA con DataPrep](ejercicios/03-E02%20EDA%20dataprep.ipynb)
   - [Preparación de datos del Titanic con Pandas](ejercicios/03-E03%20Preparacion%20datos%20Titanic%20Pandas.ipynb)
