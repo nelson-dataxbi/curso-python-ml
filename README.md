@@ -17,7 +17,7 @@
 - [Presentación](presentaciones/Curso%20Python%20ML%2001%20Introduccion.pdf)
 - Ejercicios
   - [Regresión Lineal con datos sintéticos](ejercicios/01-E01%20Regresion%20Lineal%20datos%20sinteticos.ipynb)
-  - [Clasificación de especies de Iris utilizando `scikit-learn` con `DecisionTreeClassi](ejercicios/01-E02%20Clasificacion%20Iris.ipynb)
+  - [Clasificación de especies de Iris utilizando `scikit-learn` con `DecisionTreeClass](ejercicios/01-E02%20Clasificacion%20Iris.ipynb)
   - [Clustering con `scikit-learn` utilizando el conjunto de datos Iris](ejercicios/01-E03%20Clustering%20Iris.ipynb)
   - [Clasificación con `scikit-learn` utilizando el conjunto de datos de vinos](ejercicios/01-E04%20Clasificacion%20Vinos.ipynb)
 
@@ -25,7 +25,7 @@
 - [Presentación](presentaciones/Curso%20Python%20ML%2002%20Nociones%20Estadisticas.pdf)
 - Ejercicios
   - [Cálculos estadisticos con NumPy](ejercicios/02-E01%20Calculos%20Estadisticos%20NumPy.ipynb)
-  - [Cáculos estadísticos con Pandas del Titanic](ejercicios/02-E02%20Calculos%20Estadisticos%20Pandas%20Titanic.ipynb)
+  - [Cálculos estadísticos con Pandas del Titanic](ejercicios/02-E02%20Calculos%20Estadisticos%20Pandas%20Titanic.ipynb)
   - [Gráficos estadísticos con Seaborn](ejercicios/02-E03%20Graficos%20Estadisticos%20Seaborn.ipynb)
 
 ### Exploración y preparación de datos
