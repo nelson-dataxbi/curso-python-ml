@@ -29,7 +29,7 @@
   - [Gráficos estadísticos con Seaborn](ejercicios/02-E03%20Graficos%20Estadisticos%20Seaborn.ipynb)
 
 ### Exploración y preparación de datos
-[Presentación](presentaciones/Curso%20Python%20ML%2003%20Preparacion%20Datos.pdf)
+- [Presentación](presentaciones/Curso%20Python%20ML%2003%20Preparacion%20Datos.pdf)
 - Ejercicios
   - [EDA con ydata-profiling](ejercicios/03-E01%20EDA%20ydata_profiling.ipynb)
   - [EDA con DataPrep](ejercicios/03-E02%20EDA%20dataprep.ipynb)
