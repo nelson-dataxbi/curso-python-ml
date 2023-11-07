@@ -39,3 +39,4 @@
 ### Ejercicios de aprendizaje supervizado
 - [Predicción del valor medio de una vivienda](ejercicios/04-E01%20Prediccion%20Valor%20Medio%20Vivienda.ipynb)
 - [Clasificación de dígitos manuscritos](ejercicios/04-E02%20Clasificacion%20Digitos%20Manuscritos.ipynb)
+- [Predicción de compras en línea](ejercicios/04-E02%20Prediccion%20Compras%20en%20Linea.ipynb)
