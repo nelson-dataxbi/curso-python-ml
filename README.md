@@ -41,3 +41,6 @@
 - [Predicción del valor medio de una vivienda](ejercicios/04-E01%20Prediccion%20Valor%20Medio%20Vivienda.ipynb)
 - [Clasificación de dígitos manuscritos](ejercicios/04-E02%20Clasificacion%20Digitos%20Manuscritos.ipynb)
 - [Predicción de compras en línea](ejercicios/04-E03%20Prediccion%20Compras%20en%20Linea.ipynb)
+
+### Ejercicios de aprendizaje no supervisado
+- [Clustering de especies de pingüinos](ejercicios/05-E01%20Clustering%20Pinguinos.ipynb)
