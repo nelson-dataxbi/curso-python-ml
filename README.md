@@ -44,3 +44,10 @@
 
 ### Ejercicios de aprendizaje no supervisado
 - [Clustering de especies de pingüinos](ejercicios/05-E01%20Clustering%20Pinguinos.ipynb)
+
+### Redes Neuronales
+- [Presentación](presentaciones/Curso%20Python%20ML%2006%20Redes%20Neuronales.pdf)
+- Ejercicios
+  - ["Jugar" con el playground de TensorFlow ](https://playground.tensorflow.org/)
+  - [Clasificación MLP MNINST sckit-learn](ejercicios/06-E01%20Clasificacion%20MLP%20MNIST%20scikit-learn.ipynb)
+  - [Mi primer red neuronal con TensorFlow](ejercicios/06-E02%20Mi%20primera%20RN%20con%20TensorFlow.ipynb)
