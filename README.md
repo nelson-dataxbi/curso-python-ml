@@ -50,4 +50,5 @@
 - Ejercicios
   - ["Jugar" con el playground de TensorFlow ](https://playground.tensorflow.org/)
   - [Clasificación MLP MNINST sckit-learn](ejercicios/06-E01%20Clasificacion%20MLP%20MNIST%20scikit-learn.ipynb)
-  - [Mi primer red neuronal con TensorFlow](ejercicios/06-E02%20Mi%20primera%20RN%20con%20TensorFlow.ipynb)
+  - [Mi primera Red Neuronal con TensorFlow](ejercicios/06-E02%20Mi%20primera%20RN%20con%20TensorFlow.ipynb)
+  - [Clasificación de flores](ejercicios/06-E03%20Clasificacion%20flores.ipynb)
