@@ -52,3 +52,5 @@
   - [Clasificación MLP MNINST sckit-learn](ejercicios/06-E01%20Clasificacion%20MLP%20MNIST%20scikit-learn.ipynb)
   - [Mi primera Red Neuronal con TensorFlow](ejercicios/06-E02%20Mi%20primera%20RN%20con%20TensorFlow.ipynb)
   - [Clasificación de flores](ejercicios/06-E03%20Clasificacion%20flores.ipynb)
+  - [Clasificación de imágenes utilizando una red RestNet ya entrenada](ejercicios/06-E04%20Clasificacion%20ImageNet%20ResNet50.ipynb)
+  - [Introducción a TensorBoard](ejercicios/06-E05%20TensorBoard.ipynb)
